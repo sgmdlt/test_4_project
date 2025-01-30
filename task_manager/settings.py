@@ -36,6 +36,7 @@ ALLOWED_HOSTS = [
     ".herokuapp.com",
     ".hexlet.app",
     "webserver",
+    ".onrender.com",
 ]
 
 
