@@ -1,0 +1,50 @@
+[
+  {
+    "model": "tasks.tasklabels",
+    "pk": 1,
+    "fields": {
+      "task": 1,
+      "label": 1
+    }
+  },
+  {
+    "model": "tasks.tasklabels",
+    "pk": 2,
+    "fields": {
+      "task": 2,
+      "label": 1
+    }
+  },
+  {
+    "model": "tasks.tasklabels",
+    "pk": 3,
+    "fields": {
+      "task": 2,
+      "label": 3
+    }
+  },
+  {
+    "model": "tasks.tasklabels",
+    "pk": 4,
+    "fields": {
+      "task": 1,
+      "label": 2
+    }
+  },
+  {
+    "model": "tasks.tasklabels",
+    "pk": 6,
+    "fields": {
+      "task": 3,
+      "label": 3
+    }
+  },
+  {
+    "model": "tasks.tasklabels",
+    "pk": 7,
+    "fields": {
+      "task": 3,
+      "label": 2
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "model": "labels.label",
+    "pk": 1,
+    "fields": {
+      "name": "marketing",
+      "created_at": "2021-01-11T19:03:01.515Z"
+    }
+  },
+  {
+    "model": "labels.label",
+    "pk": 2,
+    "fields": {
+      "name": "content",
+      "created_at": "2021-01-11T19:03:07.315Z"
+    }
+  },
+  {
+    "model": "labels.label",
+    "pk": 3,
+    "fields": {
+      "name": "develop",
+      "created_at": "2021-01-11T19:03:13.825Z"
+    }
+  }
+]

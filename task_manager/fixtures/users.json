@@ -1,0 +1,35 @@
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$216000$oq6WMDpTlVUv$lFXgkVXPmSXtr63YaAgMbBSV/WrkIp7l84c1Af2LGqE=",
+      "username": "elbert-abshire",
+      "first_name": "Elbert",
+      "last_name": "Abshire",
+      "date_joined": "2021-01-11T14:59:59.231Z"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$216000$F9SoMsP7NkTy$n1vLhgwoBe3VGz5J1qRDveq+YzH2mHCKi7pBFDkLjKM=",
+      "username": "lawrence-kulas",
+      "first_name": "Lawrence",
+      "last_name": "Kulas",
+      "date_joined": "2021-01-11T15:00:29.045Z"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$216000$BjSBQJwiOsGJ$y/tufH/pkJ4la39DhM5v4IuWCBffQn432b6TAhgSmwU=",
+      "username": "nona-murray",
+      "first_name": "Nona",
+      "last_name": "Murray",
+      "date_joined": "2021-01-11T15:00:59.296Z"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+*.egg-info
+dist/
+.venv/
+__pycache__/
+*.sqlite3
+*.bak
+.env
+coverage.xml
+.coverage
+htmlcov/
