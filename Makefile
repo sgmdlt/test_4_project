@@ -34,3 +34,7 @@ test-coverage:
 
 req:
 	uv pip export -f requirements.txt --output requirements.txt
+
+
+render-start:
+	gunicorn task_manager.wsgi
